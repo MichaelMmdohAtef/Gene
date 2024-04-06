@@ -1,0 +1,17 @@
+/// appbar
+///header of page => title of page screen
+/// Have you had any vaccination? => vaccinations of user
+///Have you had Coronavirus vaccination? => ask user if he have virus corona or not
+///Significant Medical History
+///Medical Problems
+///List any medication taken regularly => on press show button sheet for any medication regularly
+/// List any allergies => on press show button sheet for any allergies
+/// Medical Insurance Details => title of Medical Insurance Details container
+/// Do you have medical insurance? => ask user if have medical insurance or not
+/// Insurance company name
+/// Policy Number
+/// Expiry Date
+/// Files
+///Save changes => save changes of medical patient
+///cancel=> navigate to previous screen
+/// navBar

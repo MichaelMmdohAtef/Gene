@@ -1,0 +1,5 @@
+///scaffold
+    ///appbar
+    ///body
+        ///open ticket button => navigate to open ticket screen
+        ///my tickets button => navigate to my tickets screen screen

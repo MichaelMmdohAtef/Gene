@@ -1,0 +1,18 @@
+///single child scroll view
+///appbar
+///body
+    ///image profile
+    ///information of user
+        ///first name
+        ///last name
+        ///middle name
+        ///phone text field
+            prefix widget is /// prefix widget of Country in ( sign up screen & register screen )
+            that exist in components
+        ///email text field
+        ///change password button => navigate to change password screen
+        ///age text field
+        ///Gender
+        ///medical patient file => navigate to medical patient file
+        ///save change button => update image profile
+///navBar

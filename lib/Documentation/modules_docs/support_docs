@@ -1,0 +1,7 @@
+///scaffold
+    ///appbar
+    ///body
+        ///header title of screen => title of screen
+        ///call us button => navigate to phone with number of support
+        ///open ticket button => navigate to open ticket screen
+        ///whatsapp button => navigate to whatsapp with number of support

@@ -1,0 +1,21 @@
+///app bar
+///body
+    ///container that show chat between user and doctor
+        ///message received from doctor
+            ///text message
+            ///audio
+            ///document
+            ///image
+        ///message sent by patient
+            ///text message
+            ///audio
+            ///document
+            ///image
+    ///input action
+        ///Field of text and actions
+            ///emoji icon button
+            ///text field of input message
+            ///attachment icon
+            ///camera icon
+        ///suffix icon for sent message or record
+///show emoji container

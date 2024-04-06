@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gene APP</string>
+    <string name="facebook_app_id">683186713923745</string>
+    <string name="fb_login_protocol_scheme">fb3cf8c44bdc8a7f1868e903210b81fd3b</string>
+    <string name="facebook_client_token">d2c1ad4d50e5bb5b8062e69fef343182</string>
+</resources>

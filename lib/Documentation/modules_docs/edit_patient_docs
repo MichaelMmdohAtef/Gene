@@ -1,0 +1,16 @@
+/// appbar
+///container of edit patient information
+    ///header title of page => title of container
+    ///weight => variable of weight
+    ///height
+    ///Social Situation => on press on it show variable of social situation
+    ///national id
+///container of emergency
+    ///header title of emergency => title of container
+    ///First Name
+    ///Last Name
+    ///phone number
+    ///Address
+    ///Save changes => update patient information
+    ///cancel => navigate to previous screen
+/// navBar

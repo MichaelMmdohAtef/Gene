@@ -1,0 +1,7 @@
+///title verification
+///image
+///text of verification
+///Pin put to enter token of user
+///Continue with verification => if code is correct and if is forgot password
+navigate to new_password_page else if is verification code navigate to verification code dialog
+///verification code dialog

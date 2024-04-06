@@ -1,0 +1,9 @@
+///single child scroll view
+    ///appbar
+    ///body
+        ///container that show tickets => every screen have list of tickets
+            ///widget of ticket => default container on ticket
+        ///navigation controller that navigate back & next =>
+            number pagination that navigate between screens
+            and split screens with ///fun that split screens every screen have five tickets
+///navbar

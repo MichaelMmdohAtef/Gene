@@ -1,0 +1,31 @@
+///scaffold
+    /// appbar
+    /// body
+        ///container of setting screen
+            ///container language & country
+                ///language container => on press show language button sheet
+                     => ///fun that show language button sheet
+                ///country container => on press show country button sheet
+                     =>///fun that show country button sheet
+            ///booking container
+                ///book now button
+                ///my booking
+            ///account container
+                ///my profile button
+                ///patient information button
+                ///medical profile button
+                ///sign out button
+              if unsigned in
+                ///sign in button
+                ///register button
+            ///contact us container
+                ///tickets button
+                ///chats button
+                ///help button
+        ///container of social media buttons(facebook - instagram - linked in)
+            ///facebook button
+            ///linked in button
+            ///instagram button
+            ///privacy policy button
+            ///term of use button
+    /// navBar

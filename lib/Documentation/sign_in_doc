@@ -1,0 +1,11 @@
+///appBar
+///image of screen
+///email field
+///password field
+///sign in => sign in with email and password and navigate to home screen if true
+///forget password button => navigate to forget password screen
+///google button => sign in with google button that take credential of
+email google using fun in cubit
+///facebook button => sign in with facebook button that take credential of
+email faceBook using fun in cubit
+///sign up button => navigate to sign up button

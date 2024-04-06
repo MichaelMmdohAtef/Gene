@@ -1,0 +1,18 @@
+///appbar
+///image of doctor
+///general information container => container of information about doctor
+///general information text=> title of information about doctor
+///doctor ( full name ) => full name of doctor
+///favourite button =>on press on it if doctor un favourite change state and add
+doctor in favourites if favourite delete doctor from favourites
+///book now button => navigate to clinics screen
+///specialization => specialization of doctor
+///years of experience => num of experience years that doctor have
+///contact info title => title of contact info
+///chat us button =>
+///call us button =>
+///header booking text => title of booking container
+///choose day to book text => text that tell user to choose day of booking
+///date picker => that show ///date picker widget
+///on change value of booking => when select day of booking show button sheet
+for bookings ///fun that view the button sheet

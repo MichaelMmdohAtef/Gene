@@ -1,0 +1,35 @@
+//scroll up Button
+in home screen
+  ///listen on scroll view => add listner to scroll controller in home cubit
+in home cubit
+  ///controller that control scroll bar in Home Screen => initialize controller of scroll
+  ///if value is true so the up button must appear => value that control with appear Up Button
+  ///showBackToTopButton if true appear the button of scroll to up in home screen => change value that control with appearing up button
+when screen is max position call scrollToTop fun in home cubit
+  ///scroll to top page in home cubit
+//appBar in home screen
+  ///search for doctors => button that navigate to search screen
+  ///booking button => navigate to Booking Screen if user logged in and to sign in screen if not
+  ///notification button => navigate to notification screen slider
+  ///image of user => navigate to my profile screen if user logged in and to sign in screen if not
+  ///name of user => navigate to my profile screen if user logged in and to sign in screen if not
+  ///favourites doctor for user => navigate to favourites screen
+//navBar
+//body
+  ///carousel slider (header image for app)
+  ///more button that navigate to clinics screen => navigate to gene clinics screen
+  ///container view for clinics in Gene => container that contains part of Gene Clinics View
+  ///widget of clinic container => in components screen use container for clinic on press navigate to sup clinics screen if exist ,if not exist navigate to doctors screen
+  ///more button that navigate to doctors screen => navigate to gene doctors screen
+  ///container view for doctors in Gene => container that contains part of Gene doctors View
+  /// widget of doctor container => in components screen use container for doctor
+    in components file
+    ///widget of doctor container => container of doctor view
+    ///rating of doctor => to change rate of doctor
+    ///image of doctor => navigate to doctor details screen for booking
+    ///full name of doctor => navigate to doctor details screen for booking
+    ///speciality of doctor
+    ///years of experience
+    ///price of booking for doctor
+    ///favourite button => add doctor in favourite or delete it
+    ///book now button => navigate to doctor details screen for booking

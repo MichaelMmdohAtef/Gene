@@ -1,0 +1,27 @@
+/// appbar
+///body => show ///ui of canceled bookings and other if canceled booking or
+show ///ui of done bookings if completed bookings
+    ///ui of canceled bookings and other
+        /// Title
+        /// clinic
+        /// doctor
+        /// day of booking => show if exist
+        /// beginning time of booking
+        /// ending time of booking
+        /// Payment method
+        ///status of booking
+        ///reason => reason for cancellation
+    ///ui of done bookings
+        /// Title
+        /// clinic
+        /// doctor
+        /// day of booking => show if exist
+        /// beginning time of booking
+        /// ending time of booking
+        /// Payment method
+        ///Booking state
+        ///Medical examination details Button => onPress show button sheet with medical
+           examination
+        ///Medical patient file Button => navigate to medical patient profile screen
+        ///Medical prescription Button => navigate to  medical prescription
+/// navBar

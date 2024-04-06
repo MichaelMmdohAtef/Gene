@@ -1,0 +1,13 @@
+///appbar
+///Title => title of page
+/// clinic name
+/// doctor (full name)
+/// day of booking
+/// beginning date of booking
+/// ending date of booking
+/// Payment state method
+///edit book button => get doctor reservation depending on clinic user id then
+navigate to doctor details screen
+/// cancel book button => when click on cancel button show dialog to ensure cancellation
+process , process cancelled if user confirm cancellation
+/// go to home page button => navigate to home page

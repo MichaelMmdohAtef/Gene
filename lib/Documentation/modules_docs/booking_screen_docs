@@ -1,0 +1,6 @@
+/// appbar
+///split fun => fun to separate booked & other booking like (cancel, waiting, completed)
+///current booking button => default index
+///history booking button
+///ui of current booking screen for user => default screen
+///ui of history booking screen for user like (cancel, waiting, completed)

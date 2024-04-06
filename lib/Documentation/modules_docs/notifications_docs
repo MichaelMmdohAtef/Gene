@@ -1,0 +1,8 @@
+///appbar
+///body
+    ///container that view notifications => every screen have list of notifications
+        ///widget of notification => default container of notification
+    ///navigation controller that navigate back & next =>
+        number pagination that navigate between screens
+        and split screens with ///split screen every screen have seven notification
+///navbar

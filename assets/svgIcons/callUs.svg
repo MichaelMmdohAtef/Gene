@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_62" data-name="Rectangle 62" width="63" height="63" transform="translate(0.42 -0.311)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-0.42 0.311)" clip-path="url(#clip-path)">
+    <g id="phone-call-phone-svgrepo-com" transform="translate(0 -0.005)">
+      <g id="Group_100" data-name="Group 100" transform="translate(0 0)">
+        <g id="Group_99" data-name="Group 99">
+          <path id="Path_117" data-name="Path 117" d="M62.1,45.469c-3.028-2.98-9.621-5.757-14.394-7.322-6.815-2.236-4.544,8.945-9.087,8.945-2.271,0-7.951-4.473-13.063-9.5S15.9,26.966,15.9,24.73c0-4.473,11.359-2.237,9.087-8.945C23.4,11.085,20.578,4.6,17.549,1.616,16.254.341,14.922-.293,13.63.131,6.815,2.368,0,9.076,0,13.549c0,8.944,2.271,20.125,15.9,33.544S40.891,62.745,49.977,62.745c4.544,0,11.359-6.708,13.63-13.418C64.037,48.057,63.395,46.744,62.1,45.469ZM49.978,59.583c-7.842,0-18.543-1.674-31.8-14.727S3.213,21.268,3.213,13.548c0-2.484,5.228-8.29,11.234-10.351a3.677,3.677,0,0,1,.831.654c2.081,2.049,4.7,7.125,6.663,12.934a2.512,2.512,0,0,1,.131.543,12.094,12.094,0,0,1-2.71,1.058c-2.5.774-6.673,2.069-6.673,6.344,0,3.855,5.762,10.336,10.6,15.094S34.7,50.254,38.619,50.254c4.343,0,5.658-4.112,6.444-6.568a11.618,11.618,0,0,1,1.075-2.668,2.612,2.612,0,0,1,.551.129c5.9,1.937,11.058,4.511,13.138,6.559a3.556,3.556,0,0,1,.664.818C58.4,54.437,52.5,59.583,49.978,59.583Z" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_102" data-name="Group 102" transform="translate(31.871 12.549)">
+        <g id="Group_101" data-name="Group 101">
+          <path id="Path_118" data-name="Path 118" d="M50,20v3.137A15.813,15.813,0,0,1,65.935,38.824h3.187A19,19,0,0,0,50,20Z" transform="translate(-50 -20)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_104" data-name="Group 104" transform="translate(31.871 6.275)">
+        <g id="Group_103" data-name="Group 103">
+          <path id="Path_119" data-name="Path 119" d="M50,10v3.137A22.137,22.137,0,0,1,72.309,35.1H75.5A25.328,25.328,0,0,0,50,10Z" transform="translate(-50 -10)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_106" data-name="Group 106" transform="translate(31.871 0)">
+        <g id="Group_105" data-name="Group 105">
+          <path id="Path_120" data-name="Path 120" d="M50,0V3.137A28.462,28.462,0,0,1,78.683,31.373H81.87C81.87,14.074,67.573,0,50,0Z" transform="translate(-50 0)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

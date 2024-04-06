@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "569534278732",
+    "project_id": "rofayda-app-fc52f",
+    "storage_bucket": "rofayda-app-fc52f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569534278732:android:2e55ab5385da171d1558e9",
+        "android_client_info": {
+          "package_name": "com.example.Gene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569534278732-e82n1mlta8vrq2samru1k358arv2k7es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Gene",
+            "certificate_hash": "f388416d74c653c0ef6ad6efc329331731894146"
+          }
+        },
+        {
+          "client_id": "569534278732-o3nbbubaj8a505b7gphg4dmpe5uc0bop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Gene",
+            "certificate_hash": "d31e9c5ad579c9ab7e4b2f4e22e4ad8de925ba0c"
+          }
+        },
+        {
+          "client_id": "569534278732-v7uf6dtis93nre9las3eq5j4drjg3nb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3f1VGo7-6RsfBat3fyrO5pu3RjaCgz7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569534278732-v7uf6dtis93nre9las3eq5j4drjg3nb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

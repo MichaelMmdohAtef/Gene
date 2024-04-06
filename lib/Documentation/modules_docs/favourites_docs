@@ -1,0 +1,8 @@
+///single child scroll view
+    ///scaffold
+        ///app Bar
+        ///body
+            ///list of favourite screens => every screen have list of ///default container of favourite
+            number of screens depending on ///fun to split screens in list
+            ///navigator between pages
+///nav Bar

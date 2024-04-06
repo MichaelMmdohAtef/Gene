@@ -1,0 +1,19 @@
+///single child scroll view
+    /// appbar
+    ///body
+        ///title of page
+        /// Have you had any vaccination?
+        ///Have you had Coronavirus vaccination?
+        ///Significant Medical History
+        ///Medical Problems
+        /// List any medication taken regularly
+        /// List any allergies
+        /// divider
+        /// Medical Insurance Details
+        /// Do you have medical insurance?
+        /// Insurance company name
+        /// Policy Number
+        /// Expiry Date
+        /// Files
+        ///edit medical patient button => navigate to edit medical patient screen
+///nav bar

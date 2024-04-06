@@ -1,0 +1,9 @@
+///scaffold
+    ///appbar
+    ///container of body
+        ///single child scroll view
+            ///container that content on my message problem
+            ///list of comments
+    ///field of message & send button
+        ///message text field
+        ///post button => that create comment on ticket

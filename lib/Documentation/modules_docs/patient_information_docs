@@ -1,0 +1,17 @@
+///single child scroll view
+    ///appbar
+    ///body
+        ///container that contains information of user
+            ///title text
+            /// weight container
+            /// height container
+            /// Social Situation
+            /// National ID
+        ///container that contains emergency information of user
+            ///title text
+            /// first name container
+            /// last name container
+            /// phone container
+            /// address
+            ///edit patient button => navigate to edit patient information
+///navbar

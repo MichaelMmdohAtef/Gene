@@ -1,0 +1,6 @@
+///body
+    ///text field of search
+        ///text field
+        ///clear button
+    ///container that view doctors Depending on the user search using
+        fun=> ///fun to change state of search Depending on the user

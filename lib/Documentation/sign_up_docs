@@ -1,0 +1,19 @@
+///title sign up => title of page
+///first name
+///last name
+///middle name
+///phone text field and country
+///state of country
+///email text field
+///password text field
+///address
+///date text field
+///Gender
+///sign up button => register an account of user with data after registration
+///verify email that user register with
+///sign in with facebook => sign in with facebook button that take credential of
+email faceBook using fun in cubit
+///sign in with google => sign in with google button that take credential of
+email google using fun in cubit
+///show button sheet of country when press on it ==> when press on country container
+show button sheet

@@ -1,0 +1,11 @@
+///appbar
+///body
+    ///ui widget of body prescription
+        if (prescription model not empty show)
+        ///ui widget of table prescription
+        else
+        ///ui widget of image prescription
+        ///Qr image that view examination
+        ///download prescription button => download prescription on phone
+        ///share prescription button => share prescription on social media
+///nav bar
